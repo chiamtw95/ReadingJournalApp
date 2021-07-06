@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ReadingJournal</string>
+    <string name="book_title_hint">Enter book title</string>
+    <string name="book_title_label">Title</string>
+    <string name="book_details_label">Details</string>
+    <string name="book_summary_label">Summary</string>
+    <string name="book_read_label">Finished reading this book</string>
+
+    <string name="date_picker_title">Date completed:</string>
+    <string name="new_book">New Book</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d books</string>
+
+    <string name="book_contact_text">Choose Friends to recommend this book</string>
+    <string name="book_detailSummary_text">Send Book Details</string>
+
+    <string name="detailSummary">
+        Book Title: %1$s\nBook Summary: %2$s\n\n%3$s and %4$s
+    </string>
+    <string name="detailSummary_completed">You have finished reading this book on %s</string>
+    <string name="detailSummary_notCompleted">You have not finished reading this book yet</string>
+    <string name="detailSummary_recommended">have recommended this book to %s.</string>
+    <string name="detailSummary_notRecommended">have not recommended anyone this book.</string>
+    <string name="detailSummary_subject">ReadingJournal Book Detail Summary</string>
+    <string name="detailSummary_send">Send book detail summary via</string>
+    <string name="detailSummary_noSummary">No summary written yet.</string>
+
+    <string name="timepicker">Change time</string>
+    <string name="delete_button_text">Delete book</string>
+
+
+
+</resources>
